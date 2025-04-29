@@ -1,0 +1,1 @@
+Model weights will be needed for both HAR models to run main, due to their size they couldn't be uploaded to the github, but can be downloaded from here: https://drive.google.com/drive/folders/1Hr-l0Z0-LswBfB-FIKsmpjMTI4R57Srj?usp=sharing
